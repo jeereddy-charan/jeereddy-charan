@@ -13,10 +13,10 @@ Web Developer | Data Analyst
 ----------------------------
 
 *   🌍  I'm based in Bangalore
-*   ✉️  You can contact me at [charanjeereddy283@gmail.com](mailto:charanjeereddy283@gmail.com)
 *   👀 I’m passionate about Machine Learning, Data Science, and GenAI.
 *   🌱 Currently diving deep into Deep Learning, Computer Vision, and Generative AI applications.
 *   💞️ I’m looking to collaborate on projects related to Generative AI, Machine Learning models, and innovative AI solutions.
+*   ✉️  You can contact me at [charanjeereddy283@gmail.com](mailto:charanjeereddy283@gmail.com)
 
 
 
